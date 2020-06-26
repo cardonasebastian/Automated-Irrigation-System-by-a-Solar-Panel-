@@ -1,0 +1,16 @@
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\bin\Debug\SistemaDeRiego.exe.config
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\bin\Debug\SistemaDeRiego.exe
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\bin\Debug\SistemaDeRiego.pdb
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\bin\Debug\SistemaDeRiego.xml
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\bin\Debug\MetroFramework.dll
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.Resources.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.vbproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.exe
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.xml
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.pdb
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.Configuracion.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.Login.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.TanqueLLeno.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.ControlCarro.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.MainMenu.resources
+c:\users\vaio\documents\visual studio 2013\Projects\SistemaDeRiego\SistemaDeRiego\obj\Debug\SistemaDeRiego.Entrada.resources
